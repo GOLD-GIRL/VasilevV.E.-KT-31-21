@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VasilevV.E.-KT-31-21")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44cf25c2729babfd096174d4f3fb5f8a01ffed5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("VasilevV.E.-KT-31-21")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VasilevV.E.-KT-31-21")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
